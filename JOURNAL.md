@@ -10,7 +10,6 @@ created_at: "2026-03-20"
 Hello forgers! Been super duper busy with life and stuff, and haven't been able to make anything for months and I'm itching to get into making something (I promise i'll do some reviews soon :|)
 
 ## Aim
-
 The idea behind this project is to solve a longstanding Issue I've had when performing live as an electronic act (digital raccoon). We often need to take a very large setup, basically my laptop, an interface, 2 launchpads, my synth, a drum machine, all the cables and a table to dump everything on. All of this results in a pretty long setup and stuff tends to go wrong a lot (especially given my really stupid ableton setup with all the screwy windows audio driver shenanigans: I've got it half running on linux now which is way better but still not reliable enough for live). 
 
 So for this project, I want to eliminate my laptop from the setup entirely and create a little box which I put my synth in, with audio output, running some software comparable to ableton and with adequate configurability to map midi controllers and perform pretty much as I do now, just without all the setup. 
@@ -18,7 +17,6 @@ So for this project, I want to eliminate my laptop from the setup entirely and c
 My guitarist in my other band recently got a proper pedalboard with a built in power supply and I'm quite jealous, literally just plugs in one iec cable and the whole thing works, nothing else needed :) Thats what my ideal experience would be. 
 
 ## Actual design
-
 Because I want this to not be ridiculously complicated, I'm going to limit the scope of this slightly. I don't need actual virtual instruments to run, so there won't need to be a ridiculous amount of processing power. I'm tentatively going to target a pi 5 4Gb, as I have a spare one on hand.
 
 In terms of what I actually want from this, I'll make a list of design requirements and explain my reasoning afterwards.

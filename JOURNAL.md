@@ -77,3 +77,11 @@ Welp not quite done, but this is what I've got so far:
 It's quite late now so I'll leave the rest of the top panel layout till next time.
 
 **Total time spent: 2.5 hours**
+
+# October 4: Tiny bit more layout
+
+Very quick session today, just finished off the sketch layout from last time with the top panel.
+Here it is:
+![Top panel layout](./images/top_layout.png)
+
+**Total time spent: 0.75 hours**
